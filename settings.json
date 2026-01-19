@@ -1,0 +1,12 @@
+{
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
+  "model": "haiku",
+  "statusLine": {
+    "type": "command",
+    "command": "pwsh -NoProfile -Command \"$HOME\\.claude\\statusline.ps1\""
+  },
+  "language": "chinese"
+}

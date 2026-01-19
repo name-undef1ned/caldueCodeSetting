@@ -1,0 +1,46 @@
+# 缓存和临时文件
+cache/
+downloads/
+debug/
+shell-snapshots/
+stats-cache.json
+statsig/
+
+# 浏览器相关
+chrome/
+
+# 历史和日志
+history.jsonl
+file-history/
+
+# 项目相关临时文件
+projects/
+plans/
+ide/
+sync/
+
+# 敏感信息
+.credentials.json
+.env
+.env.local
+secrets.json
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Claude插件（可选）
+.claude-plugin/
+
+# Node
+node_modules/
+*.log
+
